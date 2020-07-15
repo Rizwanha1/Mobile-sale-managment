@@ -1,0 +1,30 @@
+.upload-btn{
+  padding: 12px 30px;
+  border-radius: 19px;
+  background-color: #FECA0D;
+  color: #254751;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  font-size: 20px;
+  border: none;
+}
+.upload-btn:hover{
+  box-shadow: 3px 3px 15px #888888;
+  transform: scale(1);
+  transition: .5s;
+  cursor: pointer;
+  }
+  .navItems{
+    color: #FECA0D;
+  }
+  .active, .navItems:hover  {
+    /* background-color: #666; */
+    /* color: #FECA0D; */
+    color: #2A464D;
+  }
+  .navItemsMobile{
+    color: #FECA0D;
+  }
+  .activeMobileMenu, .navItemsMobile:hover{
+    color: white;
+  }
